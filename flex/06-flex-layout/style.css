@@ -4,6 +4,7 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
 }
@@ -69,4 +70,5 @@ input {
   background-color:#eee;
   height: 28px;
   margin-top: 38px;
+  margin-top: auto;
 }
